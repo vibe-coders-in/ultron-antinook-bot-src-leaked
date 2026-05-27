@@ -1,0 +1,6 @@
+{
+  "token": "TOKEN_HERE",
+  "mongoUri": "mongodb+srv://<username>:<password>@cluster0.3ic6h4d.mongodb.net/?appName=Cluster0",
+  "prefix": "!",
+  "ownerId": "<ownerId>"
+}
